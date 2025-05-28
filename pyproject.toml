@@ -10,5 +10,6 @@ dependencies = [
     "langchain-community>=0.3.24",
     "langchain-openai>=0.3.18",
     "langgraph>=0.4.5",
+    "psycopg2>=2.9.10",
     "python-dotenv>=1.1.0",
 ]
