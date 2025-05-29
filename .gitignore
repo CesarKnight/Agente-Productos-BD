@@ -14,3 +14,7 @@ wheels/
 
 # visual studio code
 .vscode/
+
+# memoria del grafo
+
+Databases/checkpoints*
